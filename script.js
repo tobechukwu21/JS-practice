@@ -276,7 +276,6 @@ if ((hasDriversLicense && !hasGoodVision) || isTired) {
 //   console.log("both team lose😩");
 // }
 
-
 // switch statement- you can use else if with logic operators if you don't want the switch statement style
 
 const day = "wednesday";
@@ -310,7 +309,7 @@ if (23 > 10) {
   const str = "23 is large";
 }
 
-// condition operator replaces if/ else statement also like switch statement
+// condition/ternary operator replaces if/ else statement also like switch statement
 const stressLevel = 20;
 // stressLevel >= 18 //the condition
 //   ? console.log("i like to drink") // if
